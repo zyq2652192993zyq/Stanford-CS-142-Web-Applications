@@ -1,0 +1,27 @@
+.div {
+    font-size: 40px;
+    font-family: Tahoma;
+    width: 100px;
+    height: 150px;
+    background-color: #eeeff2;
+    padding-left: 10px;
+    border-left: dotted #D0D0FF 10px;
+    margin-right: 10px;
+}
+
+.div:hover {
+    background-color: yellow;
+    color: goldenrod;
+    cursor: pointer;
+}
+
+#flex_container {
+    display: inline-flex;
+    white-space: nowrap;
+}
+
+.final{
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}

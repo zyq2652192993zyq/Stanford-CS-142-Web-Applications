@@ -1,0 +1,24 @@
+.div {
+    margin: auto auto 1%;
+    height: 100px;
+    width: 100px;
+    border-top: 1px #687291 solid;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 40px;
+}
+
+.odd{
+    background-color: #dfe1e7;
+}
+.even {
+    background-color: #eeeff2;
+}
+
+.final{
+    border: 4px black solid;
+    background-color: #687291;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
